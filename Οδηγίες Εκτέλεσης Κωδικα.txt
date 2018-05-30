@@ -1,0 +1,9 @@
+1) Ανοιξτε το φάκελο "Domes Dedomenwn Project"
+2) Ανοιξτε το αρχειο Domes.sln  (διπλό κλικ)
+3) Για πολυ πιο γρήγορα αποτελέσματα επιλέψτε release mode (και οχι debug mode που μαλλον θα ειναι το default)
+
+Για access στο excel αρχειο:
+1) Ανοιξτε το φάκελο "Domes Dedomenwn Project"
+2) Αοιξτε το φάκελο "Domes"
+3) Αρχειο εισαγωγής : data.csv
+   Αρχείο εξαγωγής : new.scv
